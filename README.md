@@ -13,3 +13,8 @@ For more details, please visit the web site [here](http://openusd.org).
 ## Build Instruction
 
 Please refers to [Build Instructions Document](./BUILDING.md).
+
+
+## Dataset & Benchmark
+
+Please refers to [this document](./datasets-benchmark.md).
